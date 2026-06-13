@@ -1,111 +1,64 @@
-# Hi 👋 I'm Zaid Pathan
+<h1 align="center">Zaid Pathan</h1> 
 
-### Computer Engineering Student | MERN Stack Developer | Frontend Enthusiast
-
-<p align="left">
-Passionate about building modern web applications and continuously learning new technologies. Interested in Full Stack Development, Software Engineering, and creating real-world solutions through code.
-</p>
+<h3 align="center" >Full Stack Developer | Nodejs • Mongodb • Reactjs •</h3> 
 
 ---
 
-## 🚀 About Me
+## 👨‍💻  About Me
 
 🎓 Final Year Computer Engineering Student
-💻 Focused on MERN Stack Development
-🌱 Currently improving React.js, Backend Development & Modern Web Technologies
-⚡ Building projects and gaining practical development experience
-🎯 Goal: Become a skilled Software Engineer and Full Stack Developer
 
----
+💻 Passionate about Full Stack Web Development
 
-## 🛠️ Tech Stack
+🌱 Currently learning middleware and backend architecture
 
-### Languages
+🔍 Interested in Software Development and Real-World Problem Solving
 
-* JavaScript
-* Python
-* C
-* Java
+⚡ Always learning, building and improving
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 
 ### Frontend Development
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Tailwind CSS
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge\&logo=angular)
 
 ### Backend Development
 
-* Node.js
-* Express.js
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
 
-### Database
+### Databases
 
-* MongoDB
-* MySQL
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 
-### Tools & Platforms
+### Tools
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Vite
-
----
-
-## 💼 Featured Projects
-
-### 🛒 Smart Cart System
-
-* Product management system
-* React forms integration
-* Dynamic UI components
-* CRUD functionality
-
-### 🌐 Portfolio Website
-
-* Personal portfolio website
-* Responsive design
-* Modern UI/UX
-* Built using React
-
-### 📋 Service Management System
-
-* Request handling
-* Status tracking
-* Backend integration
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
 
 ---
 
-## 📚 Currently Learning
+## ✉️ Contact
 
-* Advanced React Concepts
-* API Integration
-* Backend Architecture
-* Database Optimization
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Certification
 
-Add these after creating profile:
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-```
+Artificial Intelligence & Machine Learning — Code Unnati Program
 
 ---
 
-## 📫 Connect With Me
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: your-linkedin-link
-🌐 GitHub: https://github.com/YOUR_USERNAME
-
----
-
-⭐ Always learning • Building • Improving
+⭐ Building projects, learning continuously and growing as a developer.
