@@ -5,16 +5,13 @@
 ---
 
 ## 👨‍💻  About Me
-
-🎓 Final Year Computer Engineering Student
-
-💻 Passionate about Full Stack Web Development
-
-🌱 Currently learning middleware and backend architecture
-
-🔍 Interested in Software Development and Real-World Problem Solving
-
-⚡ Always learning, building and improving
+<ul>
+  <li>Final Year Computer Engineering Student</li>
+  <li>Passionate about Full Stack Web Development</li>
+  <li>Currently learning middleware and backend architecture</li>
+  <li>Interested in Software Development and Real-World Problem Solving</li>
+  <li>Always learning, building and improving</li>
+</ul>
 
 ## 🛠️ Languages & Technologies
 
@@ -51,14 +48,23 @@
 ---
 
 ## ✉️ Contact
-
-
----
-
-## 🏆 Certification
-
-Artificial Intelligence & Machine Learning — Code Unnati Program
+<ul>
+  <li>Email: <a href="mailto:zaid622006@gmail.com">zaid622006@gmail.com</a></li>
+  <li>Resume: <a href="https://portfolio-website-eight-theta-73.vercel.app/Resume.pdf">View Here</a></li>
+</ul>
 
 ---
+## 📊 GitHub Analytics
 
-⭐ Building projects, learning continuously and growing as a developer.
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidpathann&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zaidpathann&theme=tokyonight&hide_border=true"/>
+
+</p>
+
