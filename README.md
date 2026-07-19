@@ -49,7 +49,7 @@
 
 ## ✉️ Contact
 <ul>
-  <li>Email: <a href="mailto:zaid622006@gmail.com">zaidpathan622006@gmail.com</a></li>
+  <li>Email: <a href="mailto:zaidpathan622006@gmail.com">zaidpathan622006@gmail.com</a></li>
   <li>Resume: <a href="https://portfolio-website-eight-theta-73.vercel.app/Resume.pdf">View Here</a></li>
 </ul>
 
