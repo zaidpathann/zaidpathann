@@ -58,13 +58,7 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidpathann&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=zaidpathann&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=zaidpathann&theme=tokyonight&hide_border=true" />
 
 </p>
 
